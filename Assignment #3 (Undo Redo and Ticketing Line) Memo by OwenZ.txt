@@ -1,0 +1,12 @@
+Why is a stack the right choice for undo/redo?
+I think the stack that's the right choice for me in my opinion is probably undo stack. The reason since it can
+Undo stack uses Last-In, First-Out (LIFO) stack data structure in order to reverse any actions that's
+considered a mistake.
+Why is a queue better suited for the help desk?
+Queue is better in suiting for the help desk since it can manage
+any datas filled with customers names and other important information.
+Queue can managed any data from beginning to the end.
+How do your implementations differ from Python’s built-in lists?
+I think my own implementations which is differed from Python original built-in lists is that
+a list has some details, and it's just not in a correct order depending on what the list contains.
+
