@@ -3,7 +3,7 @@ from node import Node
 
 # Implement your Stack class here
 class Stack:
-    def __init__(self):
+    def __init__(self):                            # Most of them of these code I got from Resource #1
         self.top = None
 
     def push(self,value):
